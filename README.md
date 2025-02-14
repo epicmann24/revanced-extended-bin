@@ -1,9 +1,9 @@
 #### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses my modules and impersonates ReVanced.
 
 # ReVanced eXtended
-[![CI](https://github.com/NoName-exe/revanced-extended/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/NoName-exe/revanced-extended/actions/workflows/ci.yml)
+[![CI](https://github.com/epicmann24/revanced-extended-bin/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/epicmann24/revanced-extended-bin/actions/workflows/ci.yml)
 
-Get the [latest CI release](https://github.com/NoName-exe/revanced-extended/releases/latest).
+Get the [latest CI release](https://github.com/epicmann24/revanced-extended-bin/releases/latest).
 
 ## Features
  * Updated with the latest versions of patches.
