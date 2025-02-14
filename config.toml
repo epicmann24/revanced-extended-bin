@@ -13,14 +13,13 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [YouTube-Music]
-enabled = false
 app-name = "YouTube-Music"
 included-patches = "'Spoof Wi-Fi connection'"
-excluded-patches = "'Custom branding name for YouTube Music' 'Custom branding icon for YouTube Music'"
+excluded-patches = "'Custom branding name for YouTube Music' 'Custom branding icon for YouTube Music' 'Enable debug logging'"
 arch = "arm64-v8a"
 rv-brand = "ReVanced Extended"
-build-mode = "module"
-patcher-args = " -e 'GmsCore support' -OpackageName=com.google.android.apps.youtube.music "
+build-mode = "both"
+patcher-args = " -e 'GmsCore support' "
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
@@ -28,7 +27,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 excluded-patches = "'Custom branding name for YouTube' 'Custom branding icon for YouTube'"
 app-name = "YouTube"
 rv-brand = "ReVanced Extended"
-build-mode = "both"
+build-mode = "module"
 patcher-args = " -e 'GmsCore support' -OpackageName=com.google.android.youtube "
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
@@ -46,6 +45,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [YouTube-OOS]
+enabled = false
 excluded-patches = "'Custom branding name for YouTube' 'Custom branding icon for YouTube'"
 app-name = "YouTube-OOS"
 included-patches = "'Change package name'"
@@ -56,10 +56,9 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Reddit]
-enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 arch = "arm64-v8a"
-patcher-args = " -e 'GmsCore support' -OpackageName=com.reddit.frontpage "
+patcher-args = " -e 'GmsCore support'"
 rv-brand = "revanced-extended ReVanced"
-build-mode = "both"
+build-mode = "module"
 version="2024.17.0"
