@@ -1,3 +1,6 @@
+#com.tan8
+#com.ezen.ehshig
+
 enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
 patches-source = "inotia00/revanced-patches"
 rv-brand = "ReVanced eXtended"
@@ -10,19 +13,17 @@ parallel-jobs = 1
 
 [YouTube-Music]
 app-name = "YouTube-Music"
-patches-source = "inotia00/revanced-patches"
-cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
+patcher-args = " -e 'GmsCore support' -OpackageNameYouTubeMusic='ytm.rvx.noname.exe' "
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [YouTube]
 app-name = "YouTube"
-patches-source = "inotia00/revanced-patches"
-cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
+patcher-args = " -e 'GmsCore support' -OpackageNameYouTube='yt.rvx.noname.exe' "
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
@@ -30,8 +31,6 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-patches-source = "inotia00/revanced-extended/revanced-patches"
-integrations-source = "inotia00/revanced-extended/revanced-integrations"
-cli-source = "inotia00/revanced-cli"
+patcher-args = " -e 'GmsCore support' -OpackageNameYouTubeMusic='com.reddit.frontpage' "
 rv-brand = "revanced-extended ReVanced"
 build-mode = "both"
