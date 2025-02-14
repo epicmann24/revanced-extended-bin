@@ -25,6 +25,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 
 [YouTube]
 excluded-patches = "'Custom branding name for YouTube' 'Custom branding icon for YouTube'"
+arch = "arm64-v8a"
 app-name = "YouTube"
 rv-brand = "ReVanced Extended"
 build-mode = "module"
