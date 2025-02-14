@@ -31,7 +31,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [YouTube-Music-OOS]
 app-name = "YouTube-Music"
-included-patches = "Spoof Wi-Fi connection"
+included-patches = "'Spoof Wi-Fi connection'"
 arch = "arm64-v8a"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
