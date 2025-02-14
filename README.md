@@ -8,6 +8,7 @@ Get the [latest CI release](https://github.com/epicmann24/revanced-extended-bin/
 ## Extra Features
  * OOS15 live capsule support
  * Fixed youtube music delayed playback on mobile data* untested
+ * Reddit revanced extended
 
 
 ## Features
