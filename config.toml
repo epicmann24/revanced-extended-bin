@@ -30,7 +30,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [YouTube-Music-OOS]
-app-name = "YouTube-Music"
+app-name = "YouTube-Music-OOS"
 included-patches = "'Spoof Wi-Fi connection'"
 arch = "arm64-v8a"
 rv-brand = "ReVanced Extended"
@@ -40,7 +40,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [YouTube-OOS]
-app-name = "YouTube"
+app-name = "YouTube-OOS"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 patcher-args = " -e 'GmsCore support' -OpackageNameYouTube='com.ezen.ehshig' "
