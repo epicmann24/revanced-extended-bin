@@ -1,5 +1,6 @@
+Reddit: 2024.17.0  
 YouTube: 19.44.39  
-YouTube-OOS: 19.44.39  
+YouTube-Music: 7.16.53  
 
 Install [MicroG](https://github.com/ReVanced/GmsCore/releases) to be able to use non-root YouTube or YouTube-Music.  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to block Play Store from updating YouTube and YouTube-Music.  
@@ -19,4 +20,5 @@ Patches: inotia00/patches-5.4.1.rvp
 Patches: inotia00/patches-5.4.1.rvp  
 Patches: inotia00/patches-5.4.1.rvp  
 Patches: inotia00/patches-5.4.1.rvp  
-Patches: inotia00/patches-5.4.1.rvp                    
+Patches: inotia00/patches-5.4.1.rvp  
+Patches: inotia00/patches-5.4.1.rvp                      
