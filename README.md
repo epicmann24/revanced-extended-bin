@@ -23,7 +23,7 @@ Get the [latest CI release](https://github.com/epicmann24/revanced-extended-bin/
      * Support Magisk and KernelSU.
 
  ## Notes
-* The OOS version should be used if you do not have root even if you are not on OOS, this is because the non OOS replaces the original app, hence if it was pre-installed then it cannt be replaced without root.
+* The OOS version should be used if you do not have root even if you are not on OOS, this is because the non OOS replaces the original app, hence if it was pre-installed then it cannot be replaced without root.
 * Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to block Play Store from updating YouTube and YouTube-Music.
 * Non-root versions of YouTube and YouTube-Music require [MicroG](https://github.com/ReVanced/GmsCore/releases) to work.
 
