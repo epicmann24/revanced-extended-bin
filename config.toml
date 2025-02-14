@@ -33,29 +33,6 @@ patcher-args = " -e 'GmsCore support' -OpackageName=com.google.android.youtube "
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
-[YouTube-Music-OOS]
-enabled = false
-app-name = "YouTube-Music-OOS"
-included-patches = "'Spoof Wi-Fi connection' 'Change package name'"
-excluded-patches = "'Custom branding name for YouTube Music' 'Custom branding icon for YouTube Music'"
-arch = "arm64-v8a"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-patcher-args = " -e 'GmsCore support' -OpackageName=com.tan8 "
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-
-[YouTube-OOS]
-enabled = false
-excluded-patches = "'Custom branding name for YouTube' 'Custom branding icon for YouTube'"
-app-name = "YouTube-OOS"
-included-patches = "'Change package name'"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-patcher-args = " -e 'GmsCore support' -OpackageName=com.ezen.ehshig "
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 arch = "arm64-v8a"
