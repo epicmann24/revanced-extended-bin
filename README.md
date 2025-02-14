@@ -5,6 +5,11 @@
 
 Get the [latest CI release](https://github.com/epicmann24/revanced-extended-bin/releases/latest).
 
+## Extra Features
+ * OOS15 live capsule support
+ * Fixed youtube music delayed playback on mobile data* untested
+
+
 ## Features
  * Updated with the latest versions of patches.
  * Cleans APKs from unneeded libs to make them smaller.
