@@ -8,20 +8,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to block Play Store f
 [Main Repo](https://github.com/epicmann24/revanced-extended-bin)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: inotia00/patches-5.4.1.rvp  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.4.1)  
-
-Skipped:  
-Patches: inotia00/patches-5.4.1.rvp  
-Patches: inotia00/patches-5.4.1.rvp  
-Patches: inotia00/patches-5.4.1.rvp  
-Patches: inotia00/patches-5.4.1.rvp  
-Patches: inotia00/patches-5.4.1.rvp  
-Patches: inotia00/patches-5.4.1.rvp  
-Patches: inotia00/patches-5.4.1.rvp  
-Patches: inotia00/patches-5.4.1.rvp  
-Patches: inotia00/patches-5.4.1.rvp  
-Patches: inotia00/patches-5.4.1.rvp  
-Patches: inotia00/patches-5.4.1.rvp  
-Patches: inotia00/patches-5.4.1.rvp  
-Patches: inotia00/patches-5.4.1.rvp                            
+Patches: inotia00/patches-5.4.2.rvp  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.4.2)  
