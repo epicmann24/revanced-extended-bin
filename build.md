@@ -1,6 +1,6 @@
 Reddit: 2024.17.0  
 YouTube: 19.44.39  
-YouTube-Music: 7.16.53  
+YouTube-Music: 8.05.51  
 
 Install [MicroG](https://github.com/ReVanced/GmsCore/releases) to be able to use non-root YouTube or YouTube-Music.  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to block Play Store from updating YouTube and YouTube-Music.  
@@ -10,3 +10,6 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to block Play Store f
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
 Patches: inotia00/patches-5.4.2.rvp  
 [Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.4.2)  
+
+Skipped:  
+Patches: inotia00/patches-5.4.2.rvp    
