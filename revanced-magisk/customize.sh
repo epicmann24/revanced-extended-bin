@@ -1,5 +1,6 @@
 #!/bin/sh
-
+. "$MODPATH/config"
+. "$MODPATH/common.sh"
 APPNAME() {
     echo "YouTube"
 }
