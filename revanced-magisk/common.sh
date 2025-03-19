@@ -16,7 +16,12 @@ APPNAME() {
 	if [ "$MODPATH##*" = "youtube-jhc-arm-64" ]; then
  			return "YouTube"
     	fi
-
+	if [ "$MODPATH##*" = "youtube-music-jhc-arm-64" ]; then
+ 			return "YouTubeMusic"
+    	fi
+     	if [ "$MODPATH##*" = "reddit-jhc-arm-64" ]; then
+ 			return "Reddit"
+    	fi
 
 }
 
