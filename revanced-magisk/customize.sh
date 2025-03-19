@@ -150,7 +150,7 @@ ui_print "- Setting Permissions"
 set_perm "$MODPATH/base.apk" 1000 1000 644 u:object_r:apk_data_file:s0
 
 ui_print "- Mounting $PKG_NAME"
-mkdir -p "/data/adb/rvhc"
+mkdir -p "$MODPATH/product/app/$APPNAME/$APPNAME.apk"
 RVPATH=/data/adb/rvhc/${MODPATH##*/}.apk
 mv -f "$MODPATH/base.apk" "$RVPATH"
 
