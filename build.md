@@ -1,4 +1,3 @@
-YouTube: 19.44.39  
 YouTube-Music: 8.10.51  
 
 Install [MicroG](https://github.com/ReVanced/GmsCore/releases) to be able to use non-root YouTube or YouTube-Music.  
@@ -11,4 +10,5 @@ Patches: inotia00/patches-5.5.1.rvp
 [Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.5.1)  
 
 Skipped:  
-Patches: inotia00/patches-5.5.1.rvp    
+Patches: inotia00/patches-5.5.1.rvp  
+Patches: inotia00/patches-5.5.1.rvp      
