@@ -12,6 +12,14 @@ else
 	mm() { "$@"; }
 fi
 
+APPNAME() {
+	if [ "$MODPATH##*" = "youtube-jhc-arm-64" ]; then
+ 			return "YouTube"
+    	fi
+
+
+}
+
 pmex() {
 	OP=$(pm "$@" 2>&1 </dev/null)
 	RET=$?
