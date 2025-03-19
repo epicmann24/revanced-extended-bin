@@ -1,9 +1,6 @@
 #!/bin/sh
 . "$MODPATH/config"
 . "$MODPATH/common.sh"
-APPNAME() {
-    echo "YouTube"
-}
 
 app_name=$(APPNAME)
 BASEPATH="/product/app/$app_name"
