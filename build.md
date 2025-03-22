@@ -1,3 +1,4 @@
+Reddit: 2024.29.0  
 YouTube: 19.44.39  
 YouTube-Music: 7.16.53  
 
@@ -15,4 +16,5 @@ Patches: inotia00/patches-5.5.1.rvp
 Patches: inotia00/patches-5.5.1.rvp  
 Patches: inotia00/patches-5.5.1.rvp  
 Patches: inotia00/patches-5.5.1.rvp  
-Patches: inotia00/patches-5.5.1.rvp            
+Patches: inotia00/patches-5.5.1.rvp  
+Patches: inotia00/patches-5.5.1.rvp              
