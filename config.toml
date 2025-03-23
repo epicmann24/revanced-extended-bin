@@ -20,7 +20,7 @@ arch = "arm64-v8a"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 patcher-args = " -e 'GmsCore support' "
-#version="8.10.51"
+version="8.10.51"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
