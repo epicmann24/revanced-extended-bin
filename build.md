@@ -12,4 +12,5 @@ Patches: inotia00/patches-5.6.2.rvp
 [Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.6.2)  
 
 Skipped:  
-Patches: inotia00/patches-5.6.2.rvp    
+Patches: inotia00/patches-5.6.2.rvp  
+Patches: inotia00/patches-5.6.2.rvp      
