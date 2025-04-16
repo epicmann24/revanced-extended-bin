@@ -42,7 +42,7 @@ run() {
 		err "apk not found"
 		return
 	fi
-	mm mount --bind "$RVPATH" "$BASEPATH/base.apk"
+	mount --bind "$RVPATH" "$BASEPATH/base.apk"
 	am force-stop "$PKG_NAME"
 	[ -f "$MODDIR/err" ] && mv -f "$MODDIR/err" "$MODDIR/module.prop"
 }
