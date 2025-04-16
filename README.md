@@ -8,7 +8,7 @@
 Get the [latest CI release](https://github.com/epicmann24/revanced-extended-bin/releases/latest).
 
 ## Extra Features
- * OOS15 live capsule support.
+ * Fixed OnePlus moutning issue (idk if device spesific)
  * Fixed youtube music delayed playback on mobile data* untested.
  * Reddit revanced extended.
 
