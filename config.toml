@@ -2,7 +2,7 @@
 #com.ezen.ehshig
 
 enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
-patches-source = "inotia00/revanced-patches"
+patches-source = "anddea/revanced-patches"
 compression-level = 9
 rv-brand = "ReVanced eXtended"
 parallel-jobs = 1
