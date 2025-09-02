@@ -1,6 +1,6 @@
 {
-  "version": "v20.21.37 (patches: 5.10.1)",
-  "versionCode": 50,
-  "zipUrl": "https://github.com/epicmann24/revanced-extended-bin/releases/download/50/youtube-revanced-extended-magisk-v20.21.37-arm64-v8a.zip",
+  "version": "v19.47.53 (patches: 5.10.1)",
+  "versionCode": 51,
+  "zipUrl": "https://github.com/epicmann24/revanced-extended-bin/releases/download/51/youtube-revanced-extended-magisk-v19.47.53-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/epicmann24/revanced-extended-bin/update/build.md"
 }
