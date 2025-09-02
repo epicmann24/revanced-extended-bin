@@ -31,7 +31,7 @@ app-name = "YouTube"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 patcher-args = " -e 'GmsCore support' -OpackageName=com.google.android.youtube "
-version="20.21.37"
+#version="20.21.37"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
