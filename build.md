@@ -1,4 +1,3 @@
-Reddit: 2024.29.0  
 YouTube: 19.47.53  
 YouTube-Music: 8.30.54  
 
@@ -8,8 +7,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to block Play Store f
 [Main Repo](https://github.com/epicmann24/revanced-extended-bin)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: inotia00/patches-5.10.1.rvp  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.10.1)  
-
-Skipped:  
-Patches: inotia00/patches-5.10.1.rvp    
+Patches: inotia00/patches-5.11.1.rvp  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.11.1)  
